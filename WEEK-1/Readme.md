@@ -1,9 +1,65 @@
-## Week 1
-# Crop and Fertilizer Recommendation System using Machine Learning 🌾
+
+## Crop and Fertilizer Recommendation System using Machine Learning 🌾
+
+# Week 1 - Project Documentation
 
 ## Project Overview
-The **Crop and Fertilizer Recommendation System** leverages machine learning to assist farmers and agricultural experts in making informed decisions about:
-1. **Which crop to plant** based on environmental factors.
-2. **Which fertilizer to use** for optimal growth and yield.
 
-By analyzing soil properties, weather conditions, and past data, this system provides tailored recommendations, improving productivity and sustainability.
+This project involves analyzing and processing crop-related data using a Jupyter Notebook. The primary objectives include:
+
+Data Loading: Importing and preprocessing data for analysis.
+
+Exploratory Data Analysis (EDA): Understanding trends, distributions, and patterns in the data.
+
+Model Implementation: Developing and evaluating models for predicting outcomes.
+
+## Prerequisites
+
+To replicate the notebook or contribute to the project, ensure the following tools are installed:
+
+Python Version: 3.8+
+
+Required Libraries:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+
+## Visualized data distributions with histograms and box plots.
+
+Used correlation matrices to identify relationships between variables.
+
+## Modeling:
+
+Developed machine learning models for predictions.
+
+Evaluated model performance using metrics like accuracy and F1-score.
+
+## Results:
+
+Identified key insights such as significant features and optimal parameters.
+
+## Key Insights
+
+Correlations between specific features highlight trends relevant to crop yield.
+
+The implemented model achieves high accuracy for predictions.
+
+Visualizations provide a clear understanding of data distributions and outliers.
+
+## Next Steps
+
+For Week 2, the focus will be on:
+
+Optimizing the model for better performance.
+
+Experimenting with additional datasets to generalize predictions.
+
+Automating parts of the analysis for scalability.
