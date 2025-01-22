@@ -54,12 +54,3 @@ The implemented model achieves high accuracy for predictions.
 
 Visualizations provide a clear understanding of data distributions and outliers.
 
-## Next Steps
-
-For Week 2, the focus will be on:
-
-Optimizing the model for better performance.
-
-Experimenting with additional datasets to generalize predictions.
-
-Automating parts of the analysis for scalability.
